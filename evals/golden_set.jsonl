@@ -1,0 +1,3 @@
+{"cv_text": "Python developer with 2 years of FastAPI and PostgreSQL experience. Built REST APIs handling 10k+ requests.", "jd_text": "We need a backend engineer with Python, FastAPI, and PostgreSQL.", "expected_ats_score": 85, "expected_keywords": ["Python", "FastAPI", "PostgreSQL"]}
+{"cv_text": "Student with basic Python knowledge and school projects.", "jd_text": "Senior backend engineer requiring 5+ years, AWS, Docker, and Kubernetes.", "expected_ats_score": 35, "expected_keywords": ["AWS", "Docker", "Kubernetes"]}
+{"cv_text": "Software engineer experienced in React, TypeScript, Node.js, and CI/CD pipelines.", "jd_text": "Frontend role requiring React, TypeScript, and unit testing.", "expected_ats_score": 78, "expected_keywords": ["React", "TypeScript"]}
